@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "[c,cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+        "editor.wordBasedSuggestions": "off",
+        "editor.semanticHighlighting.enabled": true,
+        "editor.stickyScroll.defaultModel": "foldingProviderModel",
+        "editor.suggest.insertMode": "replace"
+    }
+}
